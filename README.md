@@ -14,7 +14,7 @@ Left OLED features Luna, the keyboard dog.
 
 [![YouTube Link to OLED dog animation](https://img.youtube.com/vi/OWDl9g9Fai0/0.jpg)](https://www.youtube.com/watch?v=OWDl9g9Fai0 "Everything Is AWESOME")
 
-Right OLED featues my own Super Mario World animation. 
+Right OLED featues my own Super Mario World design. 
 
 ![Header image of Lily58L Keyboard](docs/oled-right.gif)
 
