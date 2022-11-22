@@ -18,4 +18,4 @@ Right OLED featues my own Super Mario World animation.
 
 ![Header image of Lily58L Keyboard](docs/oled-right.gif)
 
-Super Mario assets are from [pixilart.com](https://www.pixilart.com) - great tool!
+The assets are from [pixilart.com](https://www.pixilart.com) - great tool by the way.
