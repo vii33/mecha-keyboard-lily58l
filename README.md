@@ -10,9 +10,9 @@ You can find further infos about the hardware and my software changes in the [co
 
 ### OLED
 
-Left OLED features Luna, the keyboard dog.
+Left OLED features [Luna](https://www.youtube.com/watch?v=HgIQRazCAjo&t=0s), the keyboard dog.
 
-[![YouTube Link to OLED dog animation](https://img.youtube.com/vi/OWDl9g9Fai0/0.jpg)](https://www.youtube.com/watch?v=OWDl9g9Fai0 "Everything Is AWESOME")
+[![YouTube Link to OLED dog animation](https://img.youtube.com/vi/OWDl9g9Fai0/0.jpg)](https://www.youtube.com/watch?v=OWDl9g9Fai0 "YouTube")
 
 Right OLED featues my own Super Mario World design. 
 
