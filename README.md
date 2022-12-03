@@ -14,8 +14,6 @@ Left OLED features [Luna](https://www.youtube.com/watch?v=HgIQRazCAjo&t=0s), the
 
 [![YouTube Link to OLED dog animation](https://img.youtube.com/vi/OWDl9g9Fai0/0.jpg)](https://www.youtube.com/watch?v=OWDl9g9Fai0 "YouTube")
 
-Right OLED featues my own Super Mario World design. 
+Right OLED featues my Super World design: 
 
 ![Header image of Lily58L Keyboard](docs/oled-right.gif)
-
-The assets are from [pixilart.com](https://www.pixilart.com) - great tool by the way.
