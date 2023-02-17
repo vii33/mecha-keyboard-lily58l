@@ -8,6 +8,8 @@ A modified Lily58 PCB, with underglow, per key RGB light and rotary encoder supp
 
 You can find further infos about the hardware and my software changes in the [code repository](https://github.com/vii33/lily58l_qmk_firmware/blob/master/keyboards/lily58/keymaps/lily58l_vii33/readme.md).
 
+I am currently working at the full blog.
+
 ### OLED
 
 Left OLED features [Luna](https://www.youtube.com/watch?v=HgIQRazCAjo&t=0s), the keyboard dog.
